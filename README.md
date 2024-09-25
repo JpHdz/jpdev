@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c#,python,swift,java,kotlin&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,swift,java,kotlin&perline=14" />
   </a>
 </p>
 
