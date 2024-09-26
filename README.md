@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src ="https://giphy.com/embed/0EV5qVP04vGrGoCDjn" width = 50px></picture> **About me**
+## <picture><img src ="https://media.giphy.com/media/0EV5qVP04vGrGoCDjn/giphy.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
