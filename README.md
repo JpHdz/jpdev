@@ -34,7 +34,7 @@
 - **Front-End Development**:
 	<p align="start">
 	  <a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,figma,redux,styledcomponents,babel,vite&perline=14" />
+	    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,figma,redux,styledcomponents,babel,vite&perline=14" />
 	  </a>
 	</p>
 <br>
@@ -42,7 +42,7 @@
 - **Back-End Development**:
 	<p align="start">
 	  <a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=nodejs,nextjs,express,postman,mongodb,mysql,pug&perline=14" />
+	    <img src="https://skillicons.dev/icons?i=nodejs,express,postman,mongodb,mysql,pug&perline=14" />
 	  </a>
 	</p>
 <br>
