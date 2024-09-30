@@ -34,7 +34,7 @@
 - **Front-End Development**:
 	<p align="start">
 	  <a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,figma,redux,styledcomponents,babel,vite&perline=14" />
+	    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,react,nextjs,figma,ai,ps,redux,styledcomponents,babel,vite&perline=14" />
 	  </a>
 	</p>
 <br>
@@ -51,7 +51,7 @@
 
 	<p align="start">
 	  <a href="https://skillicons.dev">
-	    <img src="https://skillicons.dev/icons?i=nginx,docker,windows,linux&perline=14" />
+	    <img src="https://skillicons.dev/icons?i=nginx,docker,windows,linux,powershell,vim&perline=14" />
 	  </a>
 	</p>
 
@@ -73,12 +73,12 @@
 <br>
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> I Have Worked With This Other Languages</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> I Have Worked With This Other Languages/Technologies</b>
 <br>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,python,swift,java,kotlin&perline=14" />
+    <img src="https://skillicons.dev/icons?i=cs,python,swift,java,kotlin,dotnet,fastapi,php&perline=14" />
   </a>
 </p>
 
