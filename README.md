@@ -18,7 +18,7 @@
 <br>
 
 - Full Stack Developer
-- Studying My Third Year Of Uni
+- Studying My Fourth Year Of Uni
 - Currently Learning DevOps Techs
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for a job opportunity, ready to learn new stuff. This is [my resume](https://read.cv/0xabdulkhalid)
@@ -105,7 +105,7 @@
 <div align='center'>
 <p align="center">
 <a href="https://www.linkedin.com/in/juan-pablo-hernandez-ponce-886820273/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="mailto:jpnator18@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>
+<a href="mailto:juanpablohdzponce@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Gmail-Dark.svg" alt="gmail" height="50" width="50" /></a>
   
 </p>
 
